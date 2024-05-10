@@ -1,4 +1,6 @@
-# Ex.No:1a  			Study of Socket Programming
+# Ex.No:1a  	Study of Socket Programming
+### Register No: 212223040156
+### Name: Priyadharshini S.S
 
 ## Aim: 
 To perform a study on Socket Programming
@@ -56,3 +58,4 @@ Socket programming finds applications in various domains, including web developm
 
 ## Result:
 Thus the study of Socket Programming Completed Successfully
+
